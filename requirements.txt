@@ -1,0 +1,10 @@
+# Helmet Detection System Requirements
+# Computer Vision and Image Processing
+opencv-python>=4.11.0
+numpy>=1.21.2
+
+# Optional: For better performance with GPU support (uncomment if needed)
+# opencv-contrib-python>=4.11.0
+
+# Note: winsound is a built-in Windows module and doesn't need to be installed
+# Note: time module is built-in Python and doesn't need to be installed 
